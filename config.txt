@@ -1,6 +1,6 @@
-token=NTA1MDAwODMzMjM1MDI1OTIw.DrNOWw.uK2tZcHnN4Hf3AwLqGe4QUKUPKw
-owner=410421617869455370
-prefix=2
-game=Type 2help
+token=NTMzNDQ5MDc2MjQzNTYyNDk2.DxrMuA.sR8X9iFwpMIzq2ksPwqrDQKpfGc
+owner=451049567891488769
+prefix=K
+game=Type Khelp
 stayinchannel=true
 songinstatus=true
